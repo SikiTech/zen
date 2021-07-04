@@ -28,7 +28,7 @@ import java.util.List;
  **/
 @EnableTransactionManagement
 @Configuration
-@MapperScan("com.sikiapp.commerce.zhongshan.mapper")
+@MapperScan("com.tsaidog.zen.mapper")
 public class MybatisPlusConfig {
 
     /**
